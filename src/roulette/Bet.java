@@ -48,7 +48,7 @@ abstract class Bet {
     
     protected boolean betIsMade(Wheel color){
     	
-    	return color.equals(chosenBet);
+    	return false;
     }
     
 }
