@@ -1,4 +1,5 @@
 Refactoring by: Michael Daou and Sharrin Manor
+
 Added High/Low bet subclass -- not enough time to implement the other two but would be just as simple and straightforward, as explained in the response to the questions below.
 
 ##### What code would be needed to be added to the game in order to allow the user to make another type of bet?
